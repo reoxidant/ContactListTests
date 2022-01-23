@@ -21,4 +21,4 @@ Project including UI and Unit tests
 
 ## Contacts:
 
-Vitaliy Shapovalov kupper133@gmail.com
+Vitaliy Shapovalov vshapovalov.dev@yandex.ru

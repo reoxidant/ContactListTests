@@ -13,6 +13,9 @@ class NewContactViewController: UIViewController {
     @IBOutlet var surnameTextField: UITextField!
     @IBOutlet var phoneTextField: UITextField!
     
+    @IBOutlet var saveButton: UIButton!
+    @IBOutlet var cancelButton: UIButton!
+    
     var contactManager: ContactManager!
     
     @IBAction func saveButtonPressed() {
